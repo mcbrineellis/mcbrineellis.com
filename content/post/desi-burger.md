@@ -1,7 +1,7 @@
 ---
 title: "Desi Burger"
 date: 2021-04-03
-description: "A visit to Toronto's Gerrard India Bazaar"
+description: "A visit to Toronto's Gerrard India Bazaar."
 tags: ["Food"]
 ---
 
