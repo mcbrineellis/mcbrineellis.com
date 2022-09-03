@@ -22,6 +22,7 @@ params:
   defaultTheme: light
   showReadingTime: false
   rssFullText: true
+  rssLimit: 10
   replyViaEmail: true
   editUrl: https://github.com/mcbrineellis/mcbrineellis.com/edit/develop/content/
   editOnGitHub: true
