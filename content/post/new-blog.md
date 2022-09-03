@@ -4,6 +4,7 @@ date: 2022-09-03T20:07:47+09:00
 description: "Welcome to my new blog, powered by Hugo and Cloudflare Pages."
 tags: ["Tech"]
 ---
+
 Welcome to my new blog!
 
 I've been hoping to set up a new website for quite some time actually!  Last year I tried going with something "easier" and shelled out the $$ to create a new blog on Squarespace, but after sharing a couple initial posts and uploading some photos, I basically ignored the website and put it on the back burner.
