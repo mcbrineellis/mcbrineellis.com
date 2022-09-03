@@ -3,9 +3,9 @@ title: "Desi Burger"
 date: 2021-04-03
 description: "A visit to Toronto's Gerrard India Bazaar."
 tags: ["Food"]
+cover: "https://live.staticflickr.com/65535/51061054496_b348323555_b.jpg"
+coverCaption: "Desi Burger patrons on Gerrard Street"
 ---
-
-<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/mcbrineellis/51061054496" title="bun kabab"><img src="https://live.staticflickr.com/65535/51061054496_a0038c2175_h.jpg" width="100%" alt="bun kabab"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Hi folks - I recently moved to the east end of Toronto, close to the Gerrard India Bazaar which is perhaps better known as Little India.
 
