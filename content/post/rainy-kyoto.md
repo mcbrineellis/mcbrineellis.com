@@ -1,7 +1,7 @@
 ---
 title: "Rainy Kyoto"
 date: 2022-09-04T00:00:03+09:00
-draft: true
+draft: false
 tags: ["Japan Blog","Food"]
 cover: "https://live.staticflickr.com/65535/52331695350_9426d175c1_h.jpg"
 coverCaption: "Lights along Kiyamachi (木屋町)"
