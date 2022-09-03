@@ -1,0 +1,13 @@
+{{ define "main" }}
+<h1>{{ .Title }}</h1>
+{{ range .Pages.ByPublishDate.Reverse }}
+<p>
+    <h3><a class="title" href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+    {{ if .Date | default nil }}
+    <span class="post-date">
+      {{ .Date.Format ($.Site.Params.DateFormatSingle | default "2006-01-02") }}
+    </span>
+    {{ end }}
+</p>
+{{ end }}
+{{ end }}

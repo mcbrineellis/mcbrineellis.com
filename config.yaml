@@ -1,0 +1,58 @@
+baseURL: "https://mcbrineellis.com"
+languageCode: en-us
+defaultContentLanguage: en
+defaultContentLanguageInSubdir: false
+theme: simple
+paginate: 6
+enableGitInfo: true
+pygmentsUseClasses: true
+relativeURLs: true
+minify: true
+caches:
+  getjson:
+    dir: ':resourceDir/json'
+    maxAge: -1
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+params:
+  showMenuItems: 4
+  contentTypeName: post
+  defaultTheme: light
+  showReadingTime: false
+  rssFullText: true
+  replyViaEmail: true
+  editUrl: https://github.com/mcbrineellis/mcbrineellis.com/edit/develop/content/
+  editOnGitHub: true
+  replyEmail: connor@mcbrineellis.com
+  hideReadMore: false
+languages:
+  en:
+    languageName: English
+    weight: 1
+    title: "Connor's Blog"
+    description: >-
+      IT professional and , working at Cash App in Melbourne, Australia.
+    keywords: ''
+    menuMore: Show more
+    writtenBy: Written by
+    readMore: Continue reading
+    readOtherPosts: Read other posts
+    newerPosts: ←  Newer posts
+    olderPosts: Older posts →
+    lastModDisplay: ''
+    dateFormatSingle: Mon Jan 2 2006
+    dateFormatList: Mon Jan 2 2006
+    params:
+      showMenuItems: 4
+      logo:
+        logoHomeLink: /
+    menu:
+      main:
+        - identifier: about
+          name: About
+          url: /about/
+        - identifier: archive
+          name: Archive
+          url: /archive/
