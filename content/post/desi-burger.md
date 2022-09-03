@@ -5,6 +5,7 @@ description: "A visit to Toronto's Gerrard India Bazaar."
 tags: ["Food"]
 cover: "https://live.staticflickr.com/65535/51061054496_b348323555_b.jpg"
 coverCaption: "Desi Burger patrons on Gerrard Street"
+images: ["https://live.staticflickr.com/65535/51061054496_b348323555_b.jpg"]
 ---
 
 Hi folks - I recently moved to the east end of Toronto, close to the Gerrard India Bazaar which is perhaps better known as Little India.
