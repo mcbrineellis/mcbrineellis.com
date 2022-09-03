@@ -5,7 +5,6 @@ draft: true
 tags: ["Japan Blog","Food"]
 cover: "https://live.staticflickr.com/65535/52331695350_9426d175c1_h.jpg"
 coverCaption: "Lights along Kiyamachi (木屋町)"
-images: ["https://live.staticflickr.com/65535/52331695025_0dacd19bb8_h.jpg","https://live.staticflickr.com/65535/52331695185_3c85e37f9c_b.jpg",""]
 ---
 
 First Japan Blog post!  I have a lot to share and "I can't wait to get explaining", as the Pinegrove song goes.
