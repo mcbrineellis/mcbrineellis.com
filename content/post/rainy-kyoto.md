@@ -1,5 +1,6 @@
 ---
 title: "Rainy Kyoto"
+author: "Connor"
 date: 2022-09-04T00:00:03+09:00
 draft: false
 tags: ["Moving to Japan Blog"]
