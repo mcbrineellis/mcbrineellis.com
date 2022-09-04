@@ -33,6 +33,7 @@ languages:
     languageName: English
     weight: 1
     title: "Connor's Blog"
+    japanBlogTitle: "@movingtojapan.ca"
     description: >-
       IT, Photography, and Travel Blog
     keywords: ''

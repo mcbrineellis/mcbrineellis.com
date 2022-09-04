@@ -1,9 +1,15 @@
 <header class="header">
   <div class="left">
     <h3>
-      <a href="{{ if $.Site.Params.Logo.LogoHomeLink }}{{ $.Site.Params.Logo.LogoHomeLink }}{{ else }}{{ $.Site.BaseURL }}{{ end }}">
-        {{ .Site.Title }}
-      </a>
+      {{ if eq .Params.japanBlog true }}
+        <a href="https://movingtojapan.ca">
+          {{ .Site.Params.japanBlogTitle }}
+        </a>
+      {{ else }}
+        <a href="{{ if $.Site.Params.Logo.LogoHomeLink }}{{ $.Site.Params.Logo.LogoHomeLink }}{{ else }}{{ $.Site.BaseURL }}{{ end }}">
+            {{ .Site.Title }}
+        </a>
+      {{ end }}
     </h3>
   </div>
   <div class="right">

@@ -19,7 +19,9 @@
   {{ block "title" . }}
     <title>
       {{ if .IsHome }}{{ $.Site.Title }}{{ with $.Site.Params.Subtitle }} —
-      {{ . }}{{ end }}{{ else }}{{ .Title }} ::
+      {{ . }}{{ end }}
+      {{ else if eq .Params.japanBlog true }}{{ .Title }} :: {{ .Site.Params.japanBlogTitle }}
+      {{ else }}{{ .Title }} ::
       {{ $.Site.Title }}{{ with $.Site.Params.Subtitle }} — {{ . }}{{ end }}{{ end }}
     </title>
   {{ end }}
