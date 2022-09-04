@@ -32,7 +32,7 @@ SUPPORTED BY PRA INCORPORATED ASSOCIATION NGO
 
 The camping website as well as each of those associated websites use this same "screaming woman" stock image.
 
-![Camping Ad](http://mycamp.space/img/crazywoman_1000.jpg)
+![Camping Ad](crazywoman_1000.jpeg)
 
 The reviews for "THEOUT" which is advertised as a "nature healing lounge" were very poor.  And all of the campsite photos on their website seemed to just be full bush camping.
 
