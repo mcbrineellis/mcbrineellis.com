@@ -24,7 +24,7 @@ params:
   rssFullText: true
   rssLimit: 10
   replyViaEmail: true
-  editUrl: https://github.com/mcbrineellis/mcbrineellis.com/edit/develop/content/
+  editUrl: https://github.com/mcbrineellis/mcbrineellis.com/edit/main/content/
   editOnGitHub: true
   replyEmail: connor@mcbrineellis.com
   hideReadMore: false
