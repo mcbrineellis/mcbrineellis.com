@@ -3,6 +3,8 @@ title: "New Blog!"
 date: 2022-09-03T20:07:47+09:00
 description: "Welcome to my new blog, powered by Hugo and Cloudflare Pages."
 tags: ["Tech"]
+aliases:
+- /post/new-blog
 ---
 
 Welcome to my new blog!

@@ -9,6 +9,8 @@ coverCaption: "Lights along Kiyamachi (木屋町)"
 description: "First Japan Blog post!  I have a lot to share and \"I can't wait to get explaining\", as the Pinegrove song goes."
 images: ["https://live.staticflickr.com/65535/52331695350_9426d175c1_h.jpg"]
 japanBlog: true
+aliases:
+- /post/rainy-kyoto
 ---
 
 First Japan Blog post!  I have a lot to share and "I can't wait to get explaining", as the Pinegrove song goes.

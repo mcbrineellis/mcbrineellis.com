@@ -6,6 +6,8 @@ tags: ["Tech"]
 cover: "https://live.staticflickr.com/65535/52290241609_e4b82e9b66_h.jpg"
 coverCaption: "Roppongi (六本木) District, Tokyo"
 images: ["https://live.staticflickr.com/65535/52290241609_e4b82e9b66_h.jpg"]
+aliases:
+- /post/zabbix-4-6-upgrade-db-move-mysql-postgresql
 ---
 
 ### Something I've recently been working on is upgrading a large number of Zabbix servers

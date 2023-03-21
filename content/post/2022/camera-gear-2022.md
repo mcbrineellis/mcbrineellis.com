@@ -3,6 +3,8 @@ title: "Camera Gear 2022"
 date: 2022-11-20T19:24:13+09:00
 description: "My favourite camera, and a list of my camera gear this year."
 tags: ["Photography"]
+aliases:
+- /post/camera-gear-2022
 ---
 Today I'm writing about my current camera gear for anyone who might be interested, and for my future self.
 
