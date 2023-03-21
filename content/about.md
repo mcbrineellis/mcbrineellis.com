@@ -4,7 +4,7 @@ title: "About me"
 
 Hi!  My name is Connor.
 
-I'm from Toronto, Canada and I'm currently living in Fukuoka, Japan.
+I'm from Toronto, Canada and I'm currently living in Tokyo, Japan.
 
 I work for ThinkOn, a Canadian Cloud Services Provider (CSP) as a Linux Systems Engineer.  Currently I'm fascinated with adopting {{%sidenote "SRE" %}}**Site Reliability Engineering**: software engineering practices developed by Google to run reliable production software systems{{% /sidenote %}} practices to deploy, automate and monitor IT infrastructure.
 
