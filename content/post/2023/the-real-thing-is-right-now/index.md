@@ -6,6 +6,7 @@ tags: ["Life"]
 cover: "https://live.staticflickr.com/65535/52815989557_557bcba742_b.jpg"
 coverCaption: "Shanghai, 2018"
 description: "Is accomplishing our goals simply a matter of having enough willpower?"
+images: ["https://live.staticflickr.com/65535/52815989557_557bcba742_b.jpg"]
 ---
 I was feeling pretty stuck the other day.
 
