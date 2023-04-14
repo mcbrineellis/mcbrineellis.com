@@ -4,7 +4,7 @@ date: 2023-04-14T16:54:42+09:00
 draft: false
 tags: ["Life"]
 cover: "https://live.staticflickr.com/65535/52815989557_557bcba742_b.jpg"
-coverCaption: "Shanghai, 2018"
+coverCaption: "Shanghai (October 2018)"
 description: "Is accomplishing our goals simply a matter of having enough willpower?"
 images: ["https://live.staticflickr.com/65535/52815989557_557bcba742_b.jpg"]
 ---
