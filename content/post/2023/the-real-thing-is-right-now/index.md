@@ -30,9 +30,9 @@ I recently listened to a really terrific episode from TED Talks Daily called "4 
 
 <iframe id="embedPlayer" src="https://embed.podcasts.apple.com/us/podcast/4-proven-ways-to-kick-your-procrastination-habit-ayelet/id160904630?i=1000601180814&amp;itsct=podcast_box_player&amp;itscg=30200&amp;ls=1&amp;theme=auto" height="175px" frameborder="0" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation-by-user-activation" allow="autoplay *; encrypted-media *; clipboard-write" style="width: 100%; max-width: 660px; overflow: hidden; border-radius: 10px; transform: translateZ(0px); animation: 2s 6 loading-indicator; background-color: rgb(228, 228, 228);"></iframe>
 
-Here are some of notes I took on the podcast:
+Here are some notes I took on the podcast:
 
-She recommends a a goal system, rather than endless to-do lists!  A goal system should list all the important things you are working towards right now.
+She recommends a goal system, rather than endless to-do lists!  A goal system should list all the important things you are working towards right now.
 
 I've used an app called Todoist on-and-off over the past year, and at times I've found it really helpful, and other times I completely forget that it exists.  The Todoist blog has a great post on how to use Todoist for establishing a [Goal System](https://blog.doist.com/goals-todoist/) with their app, so I'm going to give that a shot.
 
